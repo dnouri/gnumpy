@@ -1,0 +1,6 @@
+bin/
+dist/
+gnumpy.egg-info/
+include/
+lib/
+local/
