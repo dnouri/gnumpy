@@ -30,7 +30,7 @@ your programs on your GPU-less laptop before running them on a
 GPU-equipped machine. It also allows you to easily test what
 performance gain you get from using a GPU. The simulation mode
 requires `npmat <http://www.cs.toronto.edu/~ilya/npmat.py>`_, written
-by `Ilya Sutskever <http://www.cs.toronto.edu/~ilya>`_.  [This file is
+by `Ilya Sutskever <http://www.cs.toronto.edu/~ilya>`_.  [npmat is
 included in this distribution.]
 
 Gnumpy is licensed with a BSD-style license (i.e. it's completely free
