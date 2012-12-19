@@ -1,3 +1,7 @@
+[This document is a copy of the original.  `The latest version is
+available on Tijmen Tieleman's
+homepage. <http://www.cs.toronto.edu/~tijmen/gnumpy.html>`_]
+
 Gnumpy is free software, but if you use it in scientific work that
 gets published, you should cite `this tech report
 <http://www.cs.toronto.edu/~tijmen/gnumpyTr.pdf>`_ in your
