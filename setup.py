@@ -8,7 +8,7 @@ setup(name='gnumpy',
       version='0.1',
       description="Gnumpy is a simple Python module that interfaces in a way "
       "almost identical to numpy, but does its computations on your "
-      "computer's  GPU, using CUDAMAT.",
+      "computer's  GPU, using Cudamat.",
       long_description=README,
       author='Tijmen Tieleman',
       license='BSD-derived (see LICENSE.txt)',
