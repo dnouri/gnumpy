@@ -8,7 +8,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 README = open(os.path.join(here, 'README.rst')).read()
 
 setup(name='gnumpy',
-      version='0.2',
+      version='0.3dev',
       description="Gnumpy is a simple Python module that interfaces in a way "
       "almost identical to numpy, but does its computations on your "
       "computer's  GPU, using Cudamat.",
